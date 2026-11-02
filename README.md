@@ -29,7 +29,9 @@ Para ejecutar el análisis es necesario tener Python 3 instalado.
 2. Abrir una terminal en la carpeta principal del proyecto.
 3. Ejecutar el siguiente comando:
 
-                       python scripts/analisis_adn.py
+```
+python scripts/analisis_adn.py
+```
 
 El programa analiza las cuatro secuencias FASTA, muestra los resultados en la terminal y genera el archivo resultados/resumen.csv.
 
