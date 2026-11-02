@@ -1,6 +1,6 @@
 # Análisis de secuencias nucleotídicas
 
- Análisis básico de secuencias reales de ADN humano utilizando Python.
+ Análisis básico de secuencias nucleotídicas utilizando Python.
 
  ## Descripcion
 
